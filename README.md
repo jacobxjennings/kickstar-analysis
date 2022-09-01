@@ -21,7 +21,7 @@ Once you understand the basics of the data, you can start to draw concusions fro
 ### Analysis of Outcomes Based on Goals
 This chart indicates that fundraisers with the lowest inital goal tends to be more successful. The chart below shows that the success rate of a fundaraiser decreases until around 30,000 to 34,999, where the success rate jumps back up to around the same level as the 5000 to 9999 category. 
 
-*Insert Screenshot*
+![Outcomes vs Goals] (Resources/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
 I did not really come around any challenges with the dataset. Since it is so large, there is a small learning curve with being first introduced. However, once you are familiar with the dataset, drawing conclusions from it was pretty easy. 
